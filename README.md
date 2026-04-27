@@ -27,3 +27,6 @@ This repository contains the project submission for the **Data Integration & Onb
 1. Clone the repository:
    ```bash
    git clone https://github.com/ahmedmaala-afk/Data-Intergration-Internship-Project.git
+pip install pandas matplotlib reportlab
+python 01_analysis.py
+python 02_generate_pdf.py
